@@ -19,12 +19,7 @@
       <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="3.5841" pan="1.0778" url="{node1}" id="Point01"/>
     </hotspots>
-    <media>
-      <image clickmode="1" tilt="-4.160" hidepinned="1" handcursor="0" roty="22.590" height="1755" fov="74.310" rotz="2.710" stretch="0.500" pan="-348.980" width="1241" rotx="-14.880" popoutscaling="100" id="Element01" popbackmode="0">
-        <source url="media/Laudo T�cnico das Obras_Exposi��o J Borges-Desmontagem-Ribeir�o Preto_pages-to-jpg-0039.jpg"/>
-        <source url="media/001.jpg"/>
-      </image>
-    </media>
+    <media/>
     <transition zoomin="7" zoomout="0" type="mesh" blendtime="1" zoomfov="40" enabled="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" zoomoutpause="1" blendcolor="0x000000"/>
     <animation syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01" useinautorotation="0"/>
     <control zoomcentercursor="1" invertwheel="0" invertcontrol="1" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" dblclickfullscreen="0" sensitivity="8" contextvr="1" lockedmouse="0" contextprojections="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" rubberband="0"/>
@@ -150,9 +145,20 @@
       <hotspot skinid="ht_node" tilt="0" description="" title="" target="$fwd" distance="2.95268" pan="-136.378" url="{node8}" id="Point02"/>
     </hotspots>
     <media>
-      <image clickmode="1" tilt="-13.220" hidepinned="1" handcursor="0" roty="22.590" height="1755" fov="74.310" rotz="2.710" stretch="0.500" pan="-31.330" width="1241" rotx="-14.880" popoutscaling="100" id="Element01" popbackmode="0">
-        <source url="media/Laudo T�cnico das Obras_Exposi��o J Borges-Desmontagem-Ribeir�o Preto_pages-to-jpg-0039.jpg"/>
-        <source url="media/001.jpg"/>
+      <image clickmode="0" tilt="-13.648" hidepinned="0" handcursor="0" roty="1.291" height="1755" fov="30.283" rotz="0.448" stretch="0.993" pan="-58.140" width="1241" rotx="-9.208" popoutscaling="100" id="Element01" popbackmode="0">
+        <source url="media/01 39.jpg"/>
+      </image>
+      <image clickmode="0" tilt="-20.300" hidepinned="0" handcursor="0" roty="50.660" height="1755" fov="20.570" rotz="15.560" stretch="0.712" pan="-21.930" width="1241" rotx="-20.660" popoutscaling="100" id="Element02" popbackmode="0">
+        <source url="media/01 35.jpg"/>
+      </image>
+      <image clickmode="0" tilt="3.140" hidepinned="0" handcursor="0" roty="30.840" height="1755" fov="21.040" rotz="-2.540" stretch="0.605" pan="-23.820" width="1241" rotx="5.740" popoutscaling="100" id="Element03" popbackmode="0">
+        <source url="media/01 24.jpg"/>
+      </image>
+      <image clickmode="0" tilt="-0.020" hidepinned="0" handcursor="0" roty="60.420" height="1755" fov="11.370" rotz="-2.580" stretch="0.934" pan="-5.890" width="1241" rotx="4.000" popoutscaling="100" id="Element04" popbackmode="0">
+        <source url="media/01 36.jpg"/>
+      </image>
+      <image clickmode="0" tilt="-17.080" hidepinned="0" handcursor="0" roty="55.980" height="1755" fov="13.750" rotz="23.370" stretch="0.500" pan="-6.310" width="1241" rotx="-30.450" popoutscaling="100" id="Element05" popbackmode="0">
+        <source url="media/01 25.jpg"/>
       </image>
     </media>
     <transition zoomin="7" zoomout="0" type="mesh" blendtime="1" zoomfov="40" enabled="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomafteroutfov="40" zoomoutpause="1" blendcolor="0x000000"/>
